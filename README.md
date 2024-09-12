@@ -3,6 +3,20 @@ Algorithms for Tech Interviews and the Stock Exchange
 
 This repository contains JavaScript implementations for a variety of algorithms, including solutions to common coding interview problems and stock exchange analysis.
 
+
+### Languages
+- **JavaScript**: The primary programming language used to implement the algorithms.
+- **Pseudocode**: Used to plan the algorithmic logic before coding the solutions.
+
+### Tools
+- **Vim**: The text editor used for writing and editing code.
+- **Git**: Version control tool used for tracking changes and managing the repository.
+- **GitHub**: Hosting platform for the assignment repository.
+
+### Resources
+- **MDN Web Docs**: Referenced for JavaScript syntax, methods, and best practices.
+
+
 ## Files
 
 ### Interview Problem Solutions
